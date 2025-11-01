@@ -1,7 +1,7 @@
-## Mi repositorio 👋
 <div aling="center">
-  Mi nombre es Douglas Montiel y este es mi repositorio
+ <h2> Mi nombre es Douglas Montiel y este es mi repositorio👋</h2>
 </div>
+##
 <!--
 **dgmreyes/dgmreyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
     
