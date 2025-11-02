@@ -1,9 +1,9 @@
 <div align= "center">
- <h2> Mi nombre es Douglas Montiel y este es mi repositorio👋</h2>
+ <h1> Mi nombre es Douglas Montiel y este es mi repositorio👋</h1>
 </div>
 
 <div align= "center">
-  <h1>Soy un estudiante de la universidad nacional de ingenieria perteneciente a la carrera de Ingenieria de Sistemas</h1>
+  <h2>Soy un estudiante de la universidad nacional de ingenieria perteneciente a la carrera de Ingenieria de Sistemas</h2>
 <div/>
 <br></br>
 
