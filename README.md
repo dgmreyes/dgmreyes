@@ -23,10 +23,10 @@
 
 <div align="left">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dgmreyes&theme=radical)
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dgmreyes&layout=compact&theme=radical)
+<a ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dgmreyes&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dgmreyes&layout=compact&theme=radical) a>
 
 </div>
+
+
+
+
