@@ -8,7 +8,8 @@
 <br></br>
 
 <div aling= "left">
- <h1>**Mis conocimientos**</h1>
+ **Mis conocimientos**
+</div>
  <ul>
   <li>Conocimientos basicos en excel</li>
   <li>Conocimientos basicos de Sqlserver, etl y Power BI</li>
