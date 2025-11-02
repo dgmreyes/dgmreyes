@@ -2,7 +2,7 @@
  <h2> Mi nombre es Douglas Montiel y este es mi repositorio👋</h2>
 </div>
 
-<!--
+<!
 **dgmreyes/dgmreyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
     
 Here are some ideas to get you started:
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=dgmreyes&locale=es&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
