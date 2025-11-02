@@ -17,9 +17,9 @@
 </ul>
 <div>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="40" height="40" />
-<img src="https://strapi.io/assets/strapi-logo-dark.svg" width="40" height="40" /></div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60" height="60" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="60" height="60" />
+<img src="https://strapi.io/assets/strapi-logo-dark.svg" width="60" height="60" /></div>
 
 <div align="center">
  
