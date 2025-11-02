@@ -7,10 +7,10 @@
 <div/>
 <br></br>
 
-<div aling= "left">
- **Mis conocimientos**
+<div aling= "center">
+ <h1>Mis conocimientos</h1>
 </div>
- <ul>
+ <ul aling= "left">
   <li>Conocimientos basicos en excel</li>
   <li>Conocimientos basicos de Sqlserver, etl y Power BI</li>
   <li>Mantenimiento y reparacion de computadoras</li>
