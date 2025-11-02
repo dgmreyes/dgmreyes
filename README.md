@@ -21,6 +21,13 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="60" height="60" />
 <img src="https://strapi.io/assets/strapi-logo-dark.svg" width="60" height="60" /></div>
 
+<div><h1 align="center">Reconocimientos</h1>
+ <ul>
+  <li>Tecnico en mantenimiento y reparacion de computadoras en Sidicom</li>
+  <li>Segundo lugar en la feria de ciencias y tecnologia 2023 con el proyecto Clinica el angel</li>
+ </ul>
+</div>
+
 <div align="center">
  
 <h1>Estadísticas de GitHub</h1> 
