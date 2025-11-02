@@ -18,5 +18,16 @@
 <div></div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dgmreyes&locale=es&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+ ## 📊 Estadísticas de Contribuciones
+
+### 🏆 Resumen General
+![Total Contributions](https://img.shields.io/badge/Contribuciones_Totales-36-blue?style=for-the-badge)
+![Start Date](https://img.shields.io/badge/Inicio-9_mar_2021-green?style=for-the-badge)
+
+### 🔥 Racha de Contribuciones
+![Current Streak](https://streak-stats.demolab.com/?user=TU_USUARIO&theme=radical)
+![Longest Streak](https://img.shields.io/badge/Racha_Más_Larga-9_mar_2021-orange?style=flat-square)
+
+### 📈 Gráfico de Contribuciones
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=github)
 </div>
