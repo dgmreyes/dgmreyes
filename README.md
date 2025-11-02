@@ -21,12 +21,10 @@
  
 ## 🌟 Estadísticas de GitHub
 
-<div align="left">
-
-<a> [GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dgmreyes&theme=radical)</a> <a> [Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dgmreyes&layout=compact&theme=radical)</a>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dgmreyes&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgmreyes&layout=compact&theme=radical" alt="Top Languages" />
 </div>
-
 
 
 
