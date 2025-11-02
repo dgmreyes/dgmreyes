@@ -2,9 +2,7 @@
  <h2> Mi nombre es Douglas Montiel y este es mi repositorio👋</h2>
 </div>
 
-<div>
- <button>Si</button>
-</div>
+<br></br>
 <div>
   <h2></h2>
 <div/>
