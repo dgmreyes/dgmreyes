@@ -25,9 +25,9 @@
 ![Start Date](https://img.shields.io/badge/Inicio-9_mar_2021-green?style=for-the-badge)
 
 ### 🔥 Racha de Contribuciones
-![Current Streak](https://streak-stats.demolab.com/?user=TU_USUARIO&theme=radical)
+![Current Streak](https://streak-stats.demolab.com/?user=dgmreyes&theme=radical)
 ![Longest Streak](https://img.shields.io/badge/Racha_Más_Larga-9_mar_2021-orange?style=flat-square)
 
 ### 📈 Gráfico de Contribuciones
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=github)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dgmreyes&theme=github)
 </div>
