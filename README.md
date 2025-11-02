@@ -7,7 +7,7 @@
 <div/>
 <br></br>
 
-<div>
+<div aling= "left">
  <h1>**Mis conocimientos**</h1>
  <ul>
   <li>Conocimientos basicos en excel</li>
