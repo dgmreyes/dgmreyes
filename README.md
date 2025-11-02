@@ -5,7 +5,7 @@
 <div align= "center">
   <p>Soy un estudiante de la universidad nacional de ingenieria perteneciente a la carrera de Ingenieria de Sistemas</p>
 <div/>
-<br></br>
+
 
 <h1 align="center">Mis conocimientos</h1>
 
@@ -15,7 +15,6 @@
   <li>Mantenimiento y reparación de computadoras</li>
   <li>Conocimiento básico en el uso de strapi para la elaboración de Backend</li>
 </ul>
-</div>
 <div></div>
 
 <div align="center">
