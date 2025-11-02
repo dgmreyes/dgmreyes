@@ -18,16 +18,15 @@
 <div></div>
 
 <div align="center">
- ## 📊 Estadísticas de Contribuciones
+ 
+## 🌟 Estadísticas de GitHub
 
-### 🏆 Resumen General
-![Total Contributions](https://img.shields.io/badge/Contribuciones_Totales-36-blue?style=for-the-badge)
-![Start Date](https://img.shields.io/badge/Inicio-9_mar_2021-green?style=for-the-badge)
+<div align="center">
 
-### 🔥 Racha de Contribuciones
-![Current Streak](https://streak-stats.demolab.com/?user=dgmreyes&theme=radical)
-![Longest Streak](https://img.shields.io/badge/Racha_Más_Larga-9_mar_2021-orange?style=flat-square)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dgmreyes&theme=radical)
 
-### 📈 Gráfico de Contribuciones
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dgmreyes&theme=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dgmreyes&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dgmreyes&layout=compact&theme=radical)
+
 </div>
