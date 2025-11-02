@@ -7,18 +7,14 @@
 <div/>
 <br></br>
 
-<div aling= "center">
- <h1>Mis conocimientos</h1>
-</div>
-<div aling= "left">
- <ul>
-  <li>Conocimientos basicos en excel</li>
-  <li>Conocimientos basicos de Sqlserver, etl y Power BI</li>
-  <li>Mantenimiento y reparacion de computadoras</li>
-  <li>Conocimiento basico en el uso de strapi para la elaboracion de Backend</li>
- </ul>
-</div>
+<h1 align="center">Mis conocimientos</h1>
 
+<ul align="left">
+  <li>Conocimientos básicos en excel</li>
+  <li>Conocimientos básicos de Sqlserver, etl y Power BI</li>
+  <li>Mantenimiento y reparación de computadoras</li>
+  <li>Conocimiento básico en el uso de strapi para la elaboración de Backend</li>
+</ul>
 </div>
 <div></div>
 
