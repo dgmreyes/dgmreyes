@@ -3,7 +3,7 @@
 </div>
 
 <div align= "center">
-  <h2>Soy un estudiante de la universidad nacional de ingenieria perteneciente a la carrera de Ingenieria de Sistemas</h2>
+  <p>Soy un estudiante de la universidad nacional de ingenieria perteneciente a la carrera de Ingenieria de Sistemas</p>
 <div/>
 <br></br>
 
