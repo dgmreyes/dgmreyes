@@ -1,4 +1,4 @@
-<div align= "center">
+<div align>
  <h1> Mi nombre es Douglas Montiel y este es mi repositorio👋</h1>
 </div>
 
