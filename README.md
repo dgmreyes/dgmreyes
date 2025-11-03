@@ -23,7 +23,7 @@
 
 <div><h1 align="center">Reconocimientos</h1>
 </div>
- <ul aling="left">
+ <ul align="left">
   <li>Tecnico en mantenimiento y reparacion de computadoras en Sidicom</li>
   <li>Segundo lugar en la feria de ciencias y tecnologia 2023 con el proyecto Clinica el angel</li>
  </ul>
