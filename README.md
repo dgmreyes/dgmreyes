@@ -22,11 +22,11 @@
 <img src="https://strapi.io/assets/strapi-logo-dark.svg" width="60" height="60" /></div>
 
 <div><h1 align="center">Reconocimientos</h1>
+</div>
  <ul aling="left">
   <li>Tecnico en mantenimiento y reparacion de computadoras en Sidicom</li>
   <li>Segundo lugar en la feria de ciencias y tecnologia 2023 con el proyecto Clinica el angel</li>
  </ul>
-</div>
 
 <div align="center">
  
